@@ -1,0 +1,11 @@
+{
+	"token"  		: "Your token",
+	"GuildId" 		: "Your guild id",
+	"prefix" 		: "!",
+	"nomServ"		: "Name of the server",
+	"activityType": "PLAYING",
+    "serverInfo": [
+        "0.0.0.0",
+        30120
+    ]
+}
